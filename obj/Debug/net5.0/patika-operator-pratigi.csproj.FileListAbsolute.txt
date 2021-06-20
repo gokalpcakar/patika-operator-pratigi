@@ -1,0 +1,16 @@
+C:\Users\Cemil\Desktop\patika-operator-pratigi\bin\Debug\net5.0\patika-operator-pratigi.exe
+C:\Users\Cemil\Desktop\patika-operator-pratigi\bin\Debug\net5.0\patika-operator-pratigi.deps.json
+C:\Users\Cemil\Desktop\patika-operator-pratigi\bin\Debug\net5.0\patika-operator-pratigi.runtimeconfig.json
+C:\Users\Cemil\Desktop\patika-operator-pratigi\bin\Debug\net5.0\patika-operator-pratigi.runtimeconfig.dev.json
+C:\Users\Cemil\Desktop\patika-operator-pratigi\bin\Debug\net5.0\patika-operator-pratigi.dll
+C:\Users\Cemil\Desktop\patika-operator-pratigi\bin\Debug\net5.0\ref\patika-operator-pratigi.dll
+C:\Users\Cemil\Desktop\patika-operator-pratigi\bin\Debug\net5.0\patika-operator-pratigi.pdb
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\patika-operator-pratigi.csprojAssemblyReference.cache
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\patika-operator-pratigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\patika-operator-pratigi.AssemblyInfoInputs.cache
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\patika-operator-pratigi.AssemblyInfo.cs
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\patika-operator-pratigi.csproj.CoreCompileInputs.cache
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\patika-operator-pratigi.dll
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\ref\patika-operator-pratigi.dll
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\patika-operator-pratigi.pdb
+C:\Users\Cemil\Desktop\patika-operator-pratigi\obj\Debug\net5.0\patika-operator-pratigi.genruntimeconfig.cache
